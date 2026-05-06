@@ -1,5 +1,5 @@
 
-## Note: this is completely vibe coded!!! I don't take any responsiblity for the quality of this project. The idea is just something I've been wanting to implement for a few years and finally had a moment to do so. I figured someone else might have the same problem so I thought I'd make the repo public. Hope it works for you too!!! 
+### Note: this is completely vibe coded!!! I don't take any responsiblity for the quality of this project. The idea is just something I've been wanting to implement for a few years and finally had a moment to do so. I figured someone else might have the same problem so I thought I'd make the repo public. Hope it works for you too!!! 
 
 # Kindle-Notion Sync
 
